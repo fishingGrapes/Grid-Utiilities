@@ -1,0 +1,28 @@
+
+
+	----
+	|	 -> Top Left Corner
+
+x = -1, y = -1 => x, y-1
+x = 1, y = 1 => x+1, y 
+
+	| -> Bottom Right Corner
+----
+
+x = 1, y = 1 => x, y+1
+x = -1, y = -1 => x-1, y
+
+------------------------------------------
+
+----
+	| -> Top Right Corner 
+
+x = 1, y= -1 => x, y-1 
+x = -1, y = 1 => x-1, y
+
+
+	|	-> Bottom Left Corner
+	----
+
+x = -1, y = 1 => x, y+1
+x = 1, y = -1 => x+1, y

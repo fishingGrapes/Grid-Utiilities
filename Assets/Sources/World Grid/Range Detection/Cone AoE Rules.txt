@@ -1,0 +1,7 @@
+For Diagonals, define square of Grids with sides "range" ft worth of tiles from the Caster Intersection .
+Using GetEncompassedTile Method inside a Loop,With the Caster Intersection as the reference,
+find the distances bewteen the Intersections, and include Tiles below a distance of "range" ft.
+
+For Straight Cones, define an array of intersections from the Caster Intersection with distance "range" ft 
+and for every n distacne from the caster,include tiles with distance less than "range" ft 
+AND the width of the cone at any intersection must not exceed the distance from the Caster.
